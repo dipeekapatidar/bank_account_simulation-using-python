@@ -33,4 +33,3 @@ You can also add a new account type by adding one more line in `ACCOUNT_TYPES`.
 ## Try it
 Create two accounts, deposit money, transfer from one to the other, add interest,
 then export the history from the menu.
-# bank_account_simulation-using-python

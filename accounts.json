@@ -1,0 +1,49 @@
+{
+  "MSB100001": {
+    "account_no": "MSB100001",
+    "name": "Dipeeka Patidar",
+    "type": "Savings",
+    "balance": 125000.0,
+    "salt": "bc05b33cc27d71ba5fbff3f81875d47d",
+    "pin_hash": "3da32fe8db749f8eee9049b4475cafaa2e8cff4f22d45aa099fea85340a568b4",
+    "failed_attempts": 0,
+    "locked_until": null,
+    "opened_on": "2026-10-13 00:50:40",
+    "transactions": [
+      {
+        "time": "2026-10-13 00:50:40",
+        "type": "OPENING",
+        "amount": 100000.0,
+        "balance_after": 100000.0,
+        "note": "Account opened"
+      },
+      {
+        "time": "2026-10-13 00:52:37",
+        "type": "DEPOSIT",
+        "amount": 25000.0,
+        "balance_after": 125000.0,
+        "note": "Cash deposit"
+      }
+    ]
+  },
+  "MSB100002": {
+    "account_no": "MSB100002",
+    "name": "Prachi Singh",
+    "type": "Savings",
+    "balance": 20000.0,
+    "salt": "c9d222f8f4406bf356a40c493fa1ada5",
+    "pin_hash": "ebc2d6dfb4613a202008184a925d0ca43c23ceffcf9bcc4d37217b224cbdde4a",
+    "failed_attempts": 0,
+    "locked_until": null,
+    "opened_on": "2026-10-13 00:52:05",
+    "transactions": [
+      {
+        "time": "2026-10-13 00:52:05",
+        "type": "OPENING",
+        "amount": 20000.0,
+        "balance_after": 20000.0,
+        "note": "Account opened"
+      }
+    ]
+  }
+}
